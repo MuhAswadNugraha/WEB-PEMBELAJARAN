@@ -1,0 +1,64 @@
+.icon {
+	width: 110%;
+}
+.uta {
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+	background-image: url(image/Desain\ tanpa\ judul\ \(1\).gif);
+	background-size: cover;
+	padding-top: 150px;
+	padding-bottom: 80px;
+}
+.teks {
+	padding-top: 80px;
+	color: white;
+}
+.font {
+	font-family: cursive;
+}
+#ebok {
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+}
+#materi {
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+}
+.card a {
+	color: var(--bs-body-color);
+	text-align: center;
+}
+.b {
+	padding-top: 25px;
+	padding-bottom: 15px;
+}
+.our {
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+	background-image: url(image/bf.gif);
+	background-size: cover;
+	color: white;
+	font-family: serif;
+	padding-top: 20px;
+	padding-bottom: 30px;
+}
+.footer {
+	background-color: black;
+	color: white;
+}
+/* c.hmtl */
+.pdf {
+	margin-top: 50px;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
